@@ -1,0 +1,13 @@
+.dashboard {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 10px;
+
+  .chatlist {
+    width: 20%;
+  }
+  .chatbox {
+    width: 80%;
+    background-color: #212121;
+  }
+}
